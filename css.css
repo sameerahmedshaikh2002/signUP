@@ -1,0 +1,53 @@
+#body {
+    background-color: #6d6dbd;
+}
+#sign-Up {
+    border-radius: 10px;
+    height: 35px;
+    width: 100px;}
+
+#SignUp{
+    background-color: yellow;
+    border-radius: 10px;
+    height: 35px;
+    width: 100px;
+}
+#Login{
+    background-color: yellow;
+    border-radius: 10px;
+    height: 35px;
+    width: 100px;}
+#Signup{
+    background-color: yellow;
+    border-radius: 10px;
+    height: 35px;
+    width: 100px;
+}
+#login{
+    background-color: yellow;
+    border-radius: 10px;
+    height: 35px;
+    width: 100px;}
+#name {
+    border-radius: 20px;
+}
+#fatherName {
+    border-radius: 20px;
+}
+#age {
+    border-radius: 20px;
+}
+#email {
+    border-radius: 20px;
+}
+#password {
+    border-radius: 20px;
+}
+
+#email2 {
+    border-radius: 20px;
+}
+#password2 {
+    border-radius: 20px;
+}
+
